@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWpfMovieOverlay", "TestWpfMovieOverlay.csproj", "{F1FB25F9-69C1-48E8-95D5-CD8062E9093E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FB25F9-69C1-48E8-95D5-CD8062E9093E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FB25F9-69C1-48E8-95D5-CD8062E9093E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FB25F9-69C1-48E8-95D5-CD8062E9093E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FB25F9-69C1-48E8-95D5-CD8062E9093E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7235C4CF-0C86-4B70-8C29-495D77A927F4}
+	EndGlobalSection
+EndGlobal
