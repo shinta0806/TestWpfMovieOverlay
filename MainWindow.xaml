@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestWpfMovieOverlay"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="WPF での動画再生時にテキストや図を上書きするサンプルコード" DragOver="Window_DragOver" AllowDrop="True" Drop="Window_Drop" SizeToContent="WidthAndHeight" ResizeMode="NoResize">
+    <StackPanel>
+        <Label Content="動画ファイルをドラッグ＆ドロップしてください。" />
+        <Image x:Name="ImageComposition" Width="480" Height="270"/>
+    </StackPanel>
 </Window>
